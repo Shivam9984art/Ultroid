@@ -1,1 +1,1 @@
-from .strings import get_languages, get_string
+from .strilmport glet_languges, get_sg
